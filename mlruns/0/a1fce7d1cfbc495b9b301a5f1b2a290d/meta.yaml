@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Farouk/PFE/GIT/Yo/Vehicle/mlruns/0/a1fce7d1cfbc495b9b301a5f1b2a290d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1fce7d1cfbc495b9b301a5f1b2a290d
+run_name: vehicle_type
+run_uuid: a1fce7d1cfbc495b9b301a5f1b2a290d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718798236753
+status: 1
+tags: []
+user_id: DELL
